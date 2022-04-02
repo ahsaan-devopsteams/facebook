@@ -1,8 +1,12 @@
-this is for editing cherry
 
-this is for cherry picking
+this is fo editing cherry
 
-this code is updated in dev branch"
+this is fr cherry picking
+
+this line is updated by pull request
+
+
+this code is updated i dev branch"
 this is my file ahsaan
 this is the updated line
 this is the first line to add the code
